@@ -1,1 +1,3 @@
-link dashboard: https://bike-sharing-analytics-dashboard-lupienn.streamlit.app/
+## Repository & Live Dashboard
+- **GitHub Repository:** https://github.com/lupienn/bike-sharing-analytics-dashboard
+- **Streamlit Cloud App:** https://bike-sharing-analytics-dashboard-lupienn.streamlit.app/
